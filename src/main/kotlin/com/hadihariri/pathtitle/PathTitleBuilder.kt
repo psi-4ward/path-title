@@ -7,7 +7,7 @@ import com.intellij.openapi.wm.impl.FrameTitleBuilder
 class PathTitleBuilder : FrameTitleBuilder() {
 
     override fun getProjectTitle(project: Project): String {
-        return ""
+        return "WebStorm"
     }
 
     override fun getFileTitle(project: Project, virtualFile: VirtualFile): String {

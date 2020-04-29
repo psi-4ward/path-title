@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.hadihariri.pathtitle</id>
   <name>Path Title</name>
-  <version>0.1</version>
+  <version>0.2</version>
   <vendor email="mail@hadihariri.com" url="http://hadihariri.com">Hadi Hariri</vendor>
 
   <description><![CDATA[
@@ -9,6 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      <strong>0.2:</strong> Add WebStorm to title<br>
       <strong>0.1:</strong> First version<br>
     ]]>
   </change-notes>
